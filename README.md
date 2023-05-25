@@ -1,12 +1,4 @@
 
-
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="UTF-8"/>
- <title>    Резюме Иванкевич Вадим.
-</head>
-</title><body>
 Иванкевич Вадим
 
 Дата рождения: 02.09.2004 Проживание: г. Витебск, ул. Марка 48 Готов к переезду в г. Минск
@@ -160,4 +152,4 @@ function lib() {
         var store = new Ext.data.JsonStore({// аналог "DataTable" из состава ExtJS
             root: 'units',
             totalProperty: 'count',
-</body>
+
